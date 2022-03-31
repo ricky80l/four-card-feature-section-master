@@ -124,6 +124,7 @@ h1,
 @media screen and (max-width:1040px) {
     .container {
         width: 26rem;
+        margin: 0 auto;
         margin: 4rem 2rem 0;
     }
     h1 {
