@@ -1,0 +1,15 @@
+/* 
+### Neutral
+- Very Dark Blue: */
+
+.color {
+    color: hsl(234, 12%, 34%);
+}
+
+- Grayish Blue : .color {
+    color: hsl(229, 6%, 66%);
+}
+
+- Very Light Gray: .color {
+    color: hsl(0, 0%, 98%);
+}
